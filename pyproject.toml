@@ -1,6 +1,6 @@
 [project]
-name = "funcache"
-version = "0.1.1"
+name = "funcache-tau"
+version = "0.1.2"
 description = "funcache"
 readme = "README.md"
 requires-python = ">=3.8"
